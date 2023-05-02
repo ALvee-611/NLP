@@ -1,3 +1,3 @@
-# Analyzing Customer Feedback
+# YouTube Dislike Predictor
 
-The goal of this project is to analyze customer feedback from different channels such as social media, customer service calls and customer reviews. We will use it to determine if the overall sentiment is positve or not and hence provide valuable insight by identifying issues and areas of improvements as well as monitor customer satisfaction over time.
+On 10th November 2021, YouTube removed its dislike button. The gola of this repo is to implement a ML model to try predict the dislike count now that users can no longer dislike a button.
